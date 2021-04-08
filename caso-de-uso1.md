@@ -20,7 +20,7 @@ Nenhuma.
 
 |     | Ação do ator                                                      | Resposta do sistema                                                                    |
 | --- | ----------------------------------------------------              | -------------------------------------------------------------------------------------- |
-| 1   | O cliente solicita a opção de cadastro para um novo cliente       | O sistema pede para que o usuário informe os dados de e-mail, telefone do cliente e senha.          |
+| 1   | O cliente solicita a opção de cadastro para um novo cliente. (B2)(B3) | O sistema pede para que o usuário informe os dados de e-mail, telefone do cliente e senha.   |
 | 2   | O cliente informa os dados solicitados pelo sistema.              | O sistema faz a validação das entradas de acordo com cada campo e pede pela confirmação do cliente.(C2) |
 | 3   | O cliente faz a confirmação os dados.                             | O sistema salva os dados.                                                                           |
 | 4   |                                                                   | O sistema envia ao cliente um e-mail com link para a confirmação do cadastro.                       |
@@ -36,7 +36,7 @@ O cliente precisa estar cadastrado e logado.
 
 |     | Ação do ator                                             | Resposta do sistema                                                                |
 |-----|----------------------------------------------------------|------------------------------------------------------------------------------------|
-| 1   | O cliente acessa o menu de assinatura.                   | O sistema abre a página de assinaturas.                                            |
+| 1   | No passo A.1, o cliente acessa o menu de assinatura.                   | O sistema abre a página de assinaturas.                                            |
 | 2   | O cliente seleciona a assinatura atual.                  | O sistema abre a página de detalhes da assinatura.                                 |
 | 3   | O cliente seleciona a opção configurações da assinatura. | O sistema abre a página de configurações da assinatura.                            |
 | 4   | O cliente seleciona a opção de dados pessoais.           | O sistema informa o e-mail e telefone cadastrados                                  |
@@ -50,7 +50,7 @@ O cliente precisa estar cadastrado e logado.
 
 |     | Ação do ator                                             | Resposta do sistema                                                                |
 |-----|----------------------------------------------------------|------------------------------------------------------------------------------------|
-| 1   | O cliente acessa o menu de assinaturas.                  | O sistema abre a página de assinaturas do sistema Smart Sale.                      |
+| 1   | No passo A.1, o cliente acessa o menu de assinaturas.                  | O sistema abre a página de assinaturas do sistema Smart Sale.                      |
 | 2   | O cliente seleciona a assinatura atual.                  | O sistema abre a página de detalhes da assinatura.                                 |
 | 3   | O cliente seleciona a opção configurações da assinatura. | O sistema abre a página de configurações da assinatura.                            |
 | 4   | O cliente seleciona a opção de editar assinatura.        | O sistema pede a confirmação da ação.                                              |
