@@ -23,8 +23,8 @@ Nenhuma.
 | 1   | O cliente solicita a opção de cadastro para um novo cliente       | O sistema pede para que o usuário informe os dados de e-mail, telefone do cliente e senha.          |
 | 2   | O cliente informa os dados solicitados pelo sistema.              | O sistema faz a validação das entradas de acordo com cada campo e pede pela confirmação do cliente.(C2) |
 | 3   | O cliente faz a confirmação os dados.                             | O sistema salva os dados.                                                                           |
-| 3.1 |                                                                   | O sistema envia ao cliente um e-mail com link para a confirmação do cadastro.                       |
-| 4   | O cliente abre o link recebido por email e confirma cadastro      | O sistema informa que o cadastro foi realizado com sucesso.                                         |
+| 4   |                                                                   | O sistema envia ao cliente um e-mail com link para a confirmação do cadastro.                       |
+| 5   | O cliente abre o link recebido por email e confirma cadastro      | O sistema informa que o cadastro foi realizado com sucesso.                                         |
 | Fim |                                                                   |                                                                                                     |
 
 ### B. Fluxos Alternativos
