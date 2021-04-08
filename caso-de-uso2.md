@@ -25,7 +25,7 @@ O cliente precisa estar logado no sistema
 | 3   | O cliente confirma os dados informados.              | O sistema possibilita ao cliente inserir um número limitado de produtos e disponibiliza campos para inserção.  |
 | 4   | O cliente informa os dados nos campos e seleciona a opção de salvar | O sistema valida as entradas do cliente.                       |
 | 5   |                                                      | O sistema emite uma mensagem de confirmação dos dados inseridos.                       |
-| 6   | O cliente confirma os dados informados               | O sistema informa que a inclusão de produtos no código de grupo foi realizada com sucesso.       |
+| 6   | O cliente confirma os dados informados. (B1)         | O sistema informa que a inclusão de produtos no código de grupo foi realizada com sucesso.       |
 | Fim |                                                      |                                                                                        |
 
 ### B. Fluxos Alternativos
