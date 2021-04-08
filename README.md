@@ -40,6 +40,7 @@ O cliente precisa estar cadastrado e logado.
 | 2   | O cliente seleciona a assinatura atual.                  | O sistema abre a página de detalhes da assinatura.                                 |
 | 3   | O cliente seleciona a opção configurações da assinatura. | O sistema abre a página de configurações da assinatura.                            |
 | 4   | O cliente seleciona a opção de dados pessoais.           | O sistema informa o e-mail e telefone cadastrados                                  |
+| 5   |                                                          | O sistema retorna para o passo 'Fim' de A.                                         |
 | Fim |     
 
 ### B2. Usuário edita o e-mail cadastrado
@@ -56,7 +57,8 @@ O cliente precisa estar cadastrado e logado.
 | 5   | O cliente confirma a ação.                               | O sistema informa os dados previamente cadastrados e permite edição do campo de e-mail, telefone e senha     |
 | 6   | O cliente edita o campo de e-mail.                       | O sistema valida a entrada do dado e pede a confirmação do dado inserido. (C1)                               |
 | 7   | O cliente faz a confirmação                              | O sistema envia ao cliente um e-mail com link para a confirmação da edição do e-mail.      |
-| 8   | O cliente abre o link recebido por email e confirma      | O sistema informa que o e-mail cadastrado foi editado com sucesso.                 |   
+| 8   | O cliente abre o link recebido por email e confirma      | O sistema informa que o e-mail cadastrado foi editado com sucesso.                 |  
+| 9   |                                                          | O sistema retorna para o passo 'Fim' de A.                                         |
 | Fim |                                                          |                                                                                    |
 
 ### C. Fluxos de Exceção
